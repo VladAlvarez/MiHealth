@@ -42,9 +42,13 @@ body {
     font-size: 35px;
 }
 
-.topNav a:hover {
+.topNav a.right:hover {
     background-color: #3baf1e;
     color: white;
+}
+
+div.home:hover {
+    background-color: black;
 }
 
 main{
