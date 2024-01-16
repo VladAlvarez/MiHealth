@@ -47,10 +47,6 @@ body {
     color: white;
 }
 
-div.home:hover {
-    background-color: black;
-}
-
 main{
     display: flex;
     margin: 65px;
